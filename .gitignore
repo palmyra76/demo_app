@@ -7,3 +7,5 @@ build
 /bin/
 /.classpath
 /.project
+/appdata/**/gen/
+/appdata/**/uigen/
