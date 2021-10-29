@@ -1,0 +1,24 @@
+{
+  "name" : "<tobechanged>",
+  "label" : "Xpm Acl Sid",
+  "mode" : "block",
+  "active" : true,
+  "fields" : [ {
+    "name" : "id",
+    "searchable" : true,
+    "sortable" : true
+  }, {
+    "name" : "sid",
+    "mandatory" : true,
+    "searchable" : true,
+    "sortable" : true
+  }, {
+    "name" : "description",
+    "mandatory" : true
+  }, {
+    "name" : "active",
+    "mandatory" : true
+  } ],
+  "editable" : "editable",
+  "type" : "XpmAclSid"
+}

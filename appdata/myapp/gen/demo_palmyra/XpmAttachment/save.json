@@ -1,0 +1,48 @@
+{
+  "name" : "<tobechanged>",
+  "label" : "Xpm Attachment",
+  "mode" : "block",
+  "active" : true,
+  "fields" : [ {
+    "name" : "id",
+    "searchable" : true,
+    "sortable" : true
+  }, {
+    "name" : "ciid",
+    "mandatory" : true
+  }, {
+    "name" : "citid",
+    "mandatory" : true
+  }, {
+    "name" : "filename",
+    "mandatory" : true
+  }, {
+    "name" : "fid",
+    "searchable" : true,
+    "sortable" : true
+  }, {
+    "name" : "offset"
+  }, {
+    "name" : "size"
+  }, {
+    "name" : "expiration"
+  }, {
+    "name" : "time"
+  }, {
+    "name" : "path",
+    "mandatory" : true,
+    "searchable" : true,
+    "sortable" : true
+  }, {
+    "name" : "remotePath"
+  }, {
+    "name" : "filetype"
+  }, {
+    "name" : "tag"
+  }, {
+    "name" : "status",
+    "mandatory" : true
+  } ],
+  "editable" : "editable",
+  "type" : "XpmAttachment"
+}

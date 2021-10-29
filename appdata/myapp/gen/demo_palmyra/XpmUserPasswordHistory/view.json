@@ -1,0 +1,24 @@
+{
+  "name" : "<tobechanged>",
+  "label" : "Xpm User Password History",
+  "mode" : "block",
+  "active" : true,
+  "fields" : [ {
+    "name" : "id",
+    "searchable" : true,
+    "sortable" : true
+  }, {
+    "name" : "user",
+    "mandatory" : true
+  }, {
+    "name" : "random",
+    "mandatory" : true
+  }, {
+    "name" : "password",
+    "mandatory" : true
+  }, {
+    "name" : "changedOn"
+  } ],
+  "editable" : "editable",
+  "type" : "XpmUserPasswordHistory"
+}

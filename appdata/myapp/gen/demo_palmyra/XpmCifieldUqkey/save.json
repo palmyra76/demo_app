@@ -1,0 +1,29 @@
+{
+  "name" : "<tobechanged>",
+  "label" : "Xpm Cifield Uqkey",
+  "mode" : "block",
+  "active" : true,
+  "fields" : [ {
+    "name" : "id",
+    "searchable" : true,
+    "sortable" : true
+  }, {
+    "name" : "keyName",
+    "mandatory" : true,
+    "searchable" : true,
+    "sortable" : true
+  }, {
+    "name" : "cifield",
+    "mandatory" : true,
+    "searchable" : true,
+    "sortable" : true
+  }, {
+    "name" : "citype",
+    "mandatory" : true
+  }, {
+    "name" : "active",
+    "mandatory" : true
+  } ],
+  "editable" : "editable",
+  "type" : "XpmCifieldUqkey"
+}
