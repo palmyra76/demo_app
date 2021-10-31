@@ -40,7 +40,7 @@ jar {
 
 configurations.all {
 	// if needed to pull the latest SNAPSHOT releases, remove the comment below and run gradle.
-    resolutionStrategy.cacheChangingModulesFor 1, 'minutes'
+    // resolutionStrategy.cacheChangingModulesFor 1, 'minutes'
 }
 
 // Tasks to generate dist directory. 
